@@ -1,0 +1,10 @@
+Answer1
+Last Run Result:
+Final calllevel: 0
+Total binary search calls: 11
+Log of inputsize 512 is 9.00
+END VALUE
+Answer2
+Groceries for Friday
+[Burrito, Enchilada, Grapes, Carrot, Falafel]
+END VALUE
